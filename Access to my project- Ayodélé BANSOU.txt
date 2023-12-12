@@ -1,0 +1,9 @@
+→ SneakR Shop
+	- link : https://261e27.myshopify.com/
+	- password : Jaibeaucouptravaillé
+
+→ Repository Github
+https://github.com/ayo-bk/SneakR.git
+
+→ API Documentation 
+http://54.37.12.181:1337/documentation#/Sneaker
